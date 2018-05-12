@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37332#A-Little-Princess--Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time
 gutenberg_issued: '2011-09-07'
 gutenberg_type: Text
 identifiers:
